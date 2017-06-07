@@ -1,0 +1,1 @@
+The html file in this folder is just the file that is produced by the 'pug' view framework for this project.
